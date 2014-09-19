@@ -24,10 +24,6 @@ int main(int argc, char **argv)
         file_mode = "c";
     else if(S_ISBLK(buf.st_mode))
         file_mode = "b";
-    else if(S_ISLNK(buf.st_modes)
-        file_mode = "l";
-    else if(S_ISSOCK(buf.st_mode))
-        file_mode = "s";
     printf("#i-node:    %ld\n", buf.st_ino);
     printf("#link:      %d\n", buf.st_nlink);
     printf("UID:        %d\n", buf.st_uid);
