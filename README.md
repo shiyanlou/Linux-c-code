@@ -12,5 +12,6 @@ Linux-c-code为[实验楼](http://shiyanlou.com)课程[Linux系统编程](http:/
 | IO-1  | 4 | lseek.c、open.c、read_write.c、select.c |
 | IO-2  | 5 | stat_base.c、stat_type.c、statu_dir.c |
 
-#####“Linux系统编程”持续更新中，请关注：http://www.shiyanlou.com/courses/24
-#####更多课程，请访问：http://shiyanlou.com
+#####**Linux系统编程**持续更新中，请关注：http://www.shiyanlou.com/courses/24
+#####想学多课程？请访问**实验楼**：http://shiyanlou.com
+#####
