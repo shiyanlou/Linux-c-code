@@ -16,6 +16,6 @@ Linux-c-code为[实验楼](http://shiyanlou.com)课程[Linux系统编程](http:/
 
 想学多课程？请访问**实验楼**：http://www.shiyanlou.com
 
-提需求？求助攻？有建议？想灌水？干货分享！
+提需求？求助攻？有建议？干货分享！
 请访问**实验楼论坛**：http://forum.shiyanlou.com
 
