@@ -16,8 +16,8 @@ int main(void)
     for(i=1; i<=100; i++) {
         result += i;
     }
-    printf("result[1-100] = %d /n", result);
-    printf("result[1-250] = %d /n", func(250));
+    printf("result[1-100] = %ld \n", result);
+    printf("result[1-250] = %d \n", func(250));
 
     return 0;
 }
